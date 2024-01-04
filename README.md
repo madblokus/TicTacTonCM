@@ -29,4 +29,4 @@ yarn dev --host
 - [Example TMA](https://t.me/vite_twa_example_bot/app)
 - [Link](https://twa-dev.github.io/vite-boilerplate/)
 
-see
+see if pages working
